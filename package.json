@@ -20,7 +20,7 @@
     "backblaze",
     "b2"
   ],
-  "author": "Pedro Câmara",
+  "author": "Oron Adam",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Pedrock/strapi-provider-upload-backblaze-b2/issues"
